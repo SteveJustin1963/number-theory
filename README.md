@@ -5,8 +5,6 @@ index
  
  
 
-Here are ten interesting findings in number theory:
-
 1. **Prime Numbers and the Riemann Hypothesis**  
    The Riemann Hypothesis connects the distribution of prime numbers to the zeros of the Riemann zeta function. While still unproven, it is one 
 of the most important unsolved problems in mathematics.
@@ -55,10 +53,7 @@ Square-free numbers are integers not divisible by the square of any prime. They 
 theoretic functions and the inversion formula in arithmetic.
 
 
-/////////
-
-
-Here are 10 more interesting findings in number theory:
+ more interesting findings in number theory:
 
 1. **Pell's Equation**  
    The Diophantine equation \( x^2 - Dy^2 = 1 \) has infinitely many integer solutions for any non-square \( D \). These solutions are related to 

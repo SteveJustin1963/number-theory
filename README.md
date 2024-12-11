@@ -6,54 +6,46 @@ index
  
 
 1. **Prime Numbers and the Riemann Hypothesis**  
-   The Riemann Hypothesis connects the distribution of prime numbers to the zeros of the Riemann zeta function. While still unproven, it is one 
+The Riemann Hypothesis connects the distribution of prime numbers to the zeros of the Riemann zeta function. While still unproven, it is one 
 of the most important unsolved problems in mathematics.
 
 2. **Fermat's Last Theorem**  
-   Pierre de Fermat conjectured that there are no whole number solutions to \( a^n + b^n = c^n \) for \( n > 2 \). Andrew Wiles proved this 
-
+Pierre de Fermat conjectured that there are no whole number solutions to \( a^n + b^n = c^n \) for \( n > 2 \). Andrew Wiles proved this 
 theorem in 1994 using sophisticated techniques from algebraic geometry.
 
 3. **Goldbach's Conjecture**  
-   This conjecture posits that every even integer greater than 2 is the sum of two prime numbers. It remains unproven but has been 
-
+This conjecture posits that every even integer greater than 2 is the sum of two prime numbers. It remains unproven but has been 
 computationally verified for large ranges.
 
 4. **Twin Prime Conjecture**  
-   This conjecture suggests there are infinitely many pairs of prime numbers \( (p, p+2) \). Progress has been made, such as proving there are 
-
+This conjecture suggests there are infinitely many pairs of prime numbers \( (p, p+2) \). Progress has been made, such as proving there are 
 infinitely many primes separated by a bounded distance, but the conjecture is still unproven.
 
 5. **Modular Arithmetic and Cryptography**  
-   Number theory underpins modern cryptography. Algorithms like RSA rely on properties of large prime numbers and modular arithmetic to 
-
+Number theory underpins modern cryptography. Algorithms like RSA rely on properties of large prime numbers and modular arithmetic to 
 ensure secure communication.
 
 6. **Euler’s Totient Function**  
-   This function counts integers up to \( n \) that are relatively prime to \( n \). It plays a crucial role in Euler's generalization of Fermat's Little 
-
+This function counts integers up to \( n \) that are relatively prime to \( n \). It plays a crucial role in Euler's generalization of Fermat's Little 
 Theorem and cryptographic algorithms.
 
 7. **Perfect Numbers and Mersenne Primes**  
-   Perfect numbers are integers equal to the sum of their proper divisors. They are connected to Mersenne primes (primes of the form \( 2^p - 1 
-
+Perfect numbers are integers equal to the sum of their proper divisors. They are connected to Mersenne primes (primes of the form \( 2^p - 1 
 \)), with each even perfect number derivable from a Mersenne prime.
 
 8. **Pythagorean Triples**  
-   Sets of three integers \( (a, b, c) \) that satisfy \( a^2 + b^2 = c^2 \) have fascinated mathematicians for centuries. They are linked to 
-
+Sets of three integers \( (a, b, c) \) that satisfy \( a^2 + b^2 = c^2 \) have fascinated mathematicians for centuries. They are linked to 
 fundamental solutions in Diophantine equations.
 
 9. **Partition Numbers**  
-   The number of ways to write an integer as a sum of positive integers (order does not matter) connects to combinatorics and the work of 
+The number of ways to write an integer as a sum of positive integers (order does not matter) connects to combinatorics and the work of 
 Srinivasa Ramanujan. His discoveries about partition congruences continue to influence mathematics.
 
 10. **Square-Free Numbers and Möbius Function**  
 Square-free numbers are integers not divisible by the square of any prime. They are central to the Möbius function, which is key in number-
 theoretic functions and the inversion formula in arithmetic.
 
-
- more interesting findings in number theory:
+ ## more interesting findings in number theory:
 
 1. **Pell's Equation**  
    The Diophantine equation \( x^2 - Dy^2 = 1 \) has infinitely many integer solutions for any non-square \( D \). These solutions are related to 
